@@ -14,6 +14,6 @@ To learn HTML basics and create a multi-page website.
 - Adding images correctly
 
 ## Members
-- Member 1
-- Member 2
-- Member 3
+- mlekws
+- ahmadi
+- juma3
